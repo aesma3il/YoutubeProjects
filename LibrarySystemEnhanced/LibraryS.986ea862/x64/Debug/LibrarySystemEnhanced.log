@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\Abu-HandhoudCoursesAllInOne\YoutubeProjects\LibrarySystemEnhanced\Source.cpp(358,29): warning C4244: 'initializing': conversion from 'time_t' to 'int', possible loss of data
+D:\Abu-HandhoudCoursesAllInOne\YoutubeProjects\LibrarySystemEnhanced\Source.cpp(635,62): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+  LibrarySystemEnhanced.vcxproj -> D:\Abu-HandhoudCoursesAllInOne\YoutubeProjects\LibrarySystemEnhanced\x64\Debug\LibrarySystemEnhanced.exe
